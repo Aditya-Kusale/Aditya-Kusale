@@ -6,10 +6,10 @@ and upload this file as README.md to the root of its main branch.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;text=Aditya%20Kusale&amp;fontColor=FFFFFF&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Building%20useful%20things%20with%20AI%2C%20data%20%26%20code&amp;descAlignY=60&amp;descSize=17" alt="Animated header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;text=Aditya%20Kusale&amp;fontColor=FFFFFF&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Building%20useful%20things%20with%20AI%2C%20data%20and%20code&amp;descAlignY=60&amp;descSize=17" alt="Animated header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=750&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Applied+AI+%26+Generative+AI;RAG+Systems+%7C+Machine+Learning;Data+Analytics+%7C+Interactive+Dashboards;Always+learning.+Always+building." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=750&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Applied+AI+and+Generative+AI;RAG+Systems+%7C+Machine+Learning;Data+Analytics+%7C+Interactive+Dashboards;Always+learning.+Always+building." alt="Typing animation" />
 </a>
 
 <p>
