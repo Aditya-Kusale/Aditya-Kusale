@@ -33,7 +33,8 @@ I'm Aditya Kusale, a developer interested in building practical projects across 
       <h3>🔎 Polyglot — Multilingual AI Research Assistant</h3>
       A hybrid-RAG research assistant that retrieves across English, Hindi, French, and Chinese sources, reranks results, and generates citation-grounded answers.
       <br/><br/>
-      <a href="https://github.com/Aditya-Kusale/Multilingual-AI-Research-Assistant-using-RAG"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github" alt="Polyglot repository" /></a>
+      <a href="https://github.com/Aditya-Kusale/Multilingual-AI-Research-Assistant-Using-RAG"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github" alt="Polyglot repository" /></a>
+      <a href="https://polyglot-multilingual-research-assistant.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Dashboard-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Polyglot live dashboard" /></a>
       <br/><br/>
       <sub>RAG · Dense + sparse retrieval · RRF · Reranking · Evaluation</sub>
     </td>
